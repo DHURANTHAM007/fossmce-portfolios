@@ -6,6 +6,6 @@ Hey there ! I have a passion for coding, UI/UX design, and content writing. I en
 - **Languages:** Python, Java, C   
 - **Tools:** PyCharm, BlueJ , VS Code  
 
-## 🔗 Portfolio & Profile  ##
+## 🔗 Portfolio & Profile [Portfolio](https://dhurantham007.github.io/Portfolio/)
 
 - **GitHub Profile:** [GitHub](https://github.com/DHURANTHAM007)  
